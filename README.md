@@ -14,7 +14,7 @@ In refactoring the code that had been used to figure out the "All Stock Analysis
 #### Time results for 2017
 
 ##### Using the All Stock code 
-
+![image of 2017](Resources/Allstock_2017time.png)
 
 ##### Reconfiguring All Stock Analysis
 
